@@ -358,12 +358,14 @@ a.nivo-nextNav {
 {
 	font-size: 100%;
 	letter-spacing: -1px;
-	width: 920px;
-	height: 45px;
+	width: 940px;
+	height: 1px;
 	text-align: center;
-	color: #11030229;
-	
-	border: 1px solid #650090;
+  /* background-color: #ada6b1; */
+  background-color: rgb(154, 152, 152);
+	/* color: #11030229;
+  border: 1px solid #650090; */
+
 	margin-top: 0;
 	margin-right: auto;
 	margin-bottom: 0;
