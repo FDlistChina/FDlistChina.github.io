@@ -1,6 +1,5 @@
 html
 { height: 100%;}
-
 *
 *
 { margin: 0;
@@ -22,7 +21,7 @@ img
 
 h1, h2, h3, h4, h5, h6 
 { font: bold 175% arial, sans-serif;
-  color: #CA8EC2;
+  color: #b88eca;
   letter-spacing: -1px;
   margin: 0 0 5px 0;
   padding: 15px 0 0 0;}
@@ -60,7 +59,8 @@ a:hover
   color: #1D1D1D;}
 
 ul
-{ margin: 2px 0 22px 17px;}
+{ margin: 2px 0 22px 17px;
+}
 
 ul li
 { margin: 2px 0 15px 17px;}
@@ -81,7 +81,7 @@ ol li
 	height: 70px;
 	text-align: center;
 	background-color: transparent;
-	background-image: url(../images/bar2.jpg);
+	background-color: #aa00ff;
 	background-repeat: no-repeat;
 }
   
@@ -115,7 +115,8 @@ ol li
   padding-top: 25px;
   text-align: center; 
   margin: 0 auto;
-  background: transparent url(../images/bar2.jpg) no-repeat;} 
+  
+} 
 
 ul#menu
 {
@@ -361,7 +362,7 @@ a.nivo-nextNav {
 	height: 45px;
 	text-align: center;
 	color: #FFF;
-	background: transparent url(../images/bar2.jpg) no-repeat;
+	
 	border: 1px solid #004790;
 	margin-top: 0;
 	margin-right: auto;
@@ -380,6 +381,6 @@ a.nivo-nextNav {
 #footer a:hover
 { text-decoration: none;}
 #site_heading h1 {
-	color: #FF8000;
+	color: #0d2c73;
 }
 ```
