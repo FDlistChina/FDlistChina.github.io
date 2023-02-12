@@ -81,7 +81,7 @@ ol li
 	height: 70px;
 	text-align: center;
 	background-color: transparent;
-	background-color: #aa00ff;
+	background-color: #9d00ff;
 	background-repeat: no-repeat;
 }
   
@@ -361,9 +361,9 @@ a.nivo-nextNav {
 	width: 920px;
 	height: 45px;
 	text-align: center;
-	color: #FFF;
+	color: #11030229;
 	
-	border: 1px solid #004790;
+	border: 1px solid #650090;
 	margin-top: 0;
 	margin-right: auto;
 	margin-bottom: 0;
@@ -375,7 +375,7 @@ a.nivo-nextNav {
 }
 
 #footer a, #footer a:hover
-{ color: #FFF;
+{ color: #ffffff;
   text-decoration: underline;}
 
 #footer a:hover
@@ -383,4 +383,9 @@ a.nivo-nextNav {
 #site_heading h1 {
 	color: #0d2c73;
 }
-```
+
+
+/* .container{
+  width: 10%;
+  height: 100%;
+} */
