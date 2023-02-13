@@ -386,6 +386,11 @@ a.nivo-nextNav {
 	color: #0d2c73;
 }
 
+p.main {
+  text-align:justify;
+  text-indent:30px
+}
+
 
 /* .container{
   width: 10%;
