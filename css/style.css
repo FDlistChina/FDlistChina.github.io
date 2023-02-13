@@ -87,14 +87,16 @@ ol li
   
 #site_heading
 { height: 120px;
-  text-align: center;}  
+  /* text-align: center; */
+}  
   
 #site_heading H1
 { width: 940px;
   font: normal 300% arial, sans-serif;
   color: #FFF;
   letter-spacing: -3px;
-  background: transparent;}
+  background: transparent;
+}
   
 #site_heading H2
 {
