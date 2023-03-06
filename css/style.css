@@ -393,6 +393,10 @@ p.main {
   text-indent:30px
 }
 
+p.main1{
+  text-align:justify;
+}
+
 
 /* .container{
   width: 10%;
